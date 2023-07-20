@@ -1,0 +1,5 @@
+Click new or create repository 
+give name 
+click create repository
+click upload a file 
+click commit changes
