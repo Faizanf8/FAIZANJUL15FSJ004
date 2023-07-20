@@ -3,3 +3,7 @@ give name
 click create repository
 click upload a file 
 click commit changes
+Go To settings 
+collaborators 
+Add People 
+Give Name for eg:- git-shoiab
